@@ -1,0 +1,202 @@
+C:\Users\mjmcc\PycharmProjects\slalomuitest\tests\../drivers\Windowsgeckodriver.exe: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    Windowsgeckodriver.exe [FLAGS] [OPTIONS]
+
+For more information try --help
+
+C:\Users\mjmcc\PycharmProjects\slalomuitest\tests\../drivers\Windowsgeckodriver.exe: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    Windowsgeckodriver.exe [FLAGS] [OPTIONS]
+
+For more information try --help
+
+C:\Users\mjmcc\PycharmProjects\slalomuitest\tests\../drivers\Windowsgeckodriver.exe: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    Windowsgeckodriver.exe [FLAGS] [OPTIONS]
+
+For more information try --help
+
+1637008386918	geckodriver	INFO	Listening on 127.0.0.1:59935
+1637008389856	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofileM21NmK"
+1637008390493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofileM21NmK\\search.json.mozlz4", (void 0)))
+1637008394459	Marionette	INFO	Listening on port 59943
+1637008394695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637008404562	Marionette	INFO	Stopped listening on port 59943
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\mjmcc\AppData\Local\Temp\rust_mozprofileM21NmK\protections.sqlite
+1637008718825	geckodriver	INFO	Listening on 127.0.0.1:55164
+1637008721872	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofilenq5E48"
+1637008722611	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofilenq5E48\\search.json.mozlz4", (void 0)))
+1637008726389	Marionette	INFO	Listening on port 55172
+1637008726703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637008733932	Marionette	INFO	Stopped listening on port 55172
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1637008916305	geckodriver	INFO	Listening on 127.0.0.1:55293
+1637008919334	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofileWUT8Ba"
+1637008919824	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofileWUT8Ba\\search.json.mozlz4", (void 0)))
+1637008923386	Marionette	INFO	Listening on port 55301
+1637008923569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637008930299	Marionette	INFO	Stopped listening on port 55301
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\mjmcc\AppData\Local\Temp\rust_mozprofileWUT8Ba\protections.sqlite
+1637009055260	geckodriver	INFO	Listening on 127.0.0.1:56487
+1637009058337	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofileLKIAJe"
+1637009058953	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofileLKIAJe\\search.json.mozlz4", (void 0)))
+1637009063503	Marionette	INFO	Listening on port 56496
+1637009063694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637009071511	Marionette	INFO	Stopped listening on port 56496
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\mjmcc\AppData\Local\Temp\rust_mozprofileLKIAJe\protections.sqlite
+[Parent 13616, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1637009087433	geckodriver	INFO	Listening on 127.0.0.1:56612
+1637009090506	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofile3IlXKH"
+1637009092055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofile3IlXKH\\search.json.mozlz4", (void 0)))
+1637009098478	Marionette	INFO	Listening on port 56635
+1637009099176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637009107063	Marionette	INFO	Stopped listening on port 56635
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\mjmcc\AppData\Local\Temp\rust_mozprofile3IlXKH\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637009149961	geckodriver	INFO	Listening on 127.0.0.1:56911
+1637009152997	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofileqfPH8l"
+1637009153562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofileqfPH8l\\search.json.mozlz4", (void 0)))
+1637009157437	Marionette	INFO	Listening on port 56921
+1637009158006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637009164637	Marionette	INFO	Stopped listening on port 56921
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 17776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637009342164	geckodriver	INFO	Listening on 127.0.0.1:64346
+1637009345273	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofilecDhCEN"
+1637009346065	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mjmcc\\AppData\\Local\\Temp\\rust_mozprofilecDhCEN\\search.json.mozlz4", (void 0)))
+1637009351533	Marionette	INFO	Listening on port 64354
+1637009351681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637009359983	Marionette	INFO	Stopped listening on port 64354
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\mjmcc\AppData\Local\Temp\rust_mozprofilecDhCEN\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
